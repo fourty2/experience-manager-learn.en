@@ -617,7 +617,7 @@ This is an optional task but its nice to easily identify your custom code packag
    ```xml
 
    <?xml version="1.0" encoding="UTF-8"?>
-   <jcr:root xmlns:vlt="https://www.day.com/jcr/vault/1.0" xmlns:jcr="https://www.jcp.org/jcr/1.0" xmlns:nt="https://www.jcp.org/jcr/nt/1.0">
+   <jcr:root xmlns:vlt="http://www.day.com/jcr/vault/1.0" xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0">
        <thumbnail.png/>
    </jcr:root>
 
